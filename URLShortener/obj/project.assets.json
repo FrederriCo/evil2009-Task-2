@@ -10484,11 +10484,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\Task-2\\URLShortener\\URLShortener.csproj",
+      "projectUniqueName": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\evil2009-Task-2\\URLShortener\\URLShortener.csproj",
       "projectName": "URLShortener",
-      "projectPath": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\Task-2\\URLShortener\\URLShortener.csproj",
+      "projectPath": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\evil2009-Task-2\\URLShortener\\URLShortener.csproj",
       "packagesPath": "C:\\Users\\FredericCo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\Task-2\\URLShortener\\obj\\",
+      "outputPath": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\evil2009-Task-2\\URLShortener\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FredericCo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10505,8 +10505,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\Task-2\\URLShortenerData\\URLShortenerData.csproj": {
-              "projectPath": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\Task-2\\URLShortenerData\\URLShortenerData.csproj"
+            "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\evil2009-Task-2\\URLShortenerData\\URLShortenerData.csproj": {
+              "projectPath": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\evil2009-Task-2\\URLShortenerData\\URLShortenerData.csproj"
             }
           }
         }

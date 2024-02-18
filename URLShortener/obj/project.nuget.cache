@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eMjUIWtg0t660RwYfC0tqZCVg6Dn9mSHLtW6uwxVFfxK8//ElLmo8jZKDvAXi0dRUuiU5SWOVTBAPqxIFCjARQ==",
+  "dgSpecHash": "0TQzRlN61SVkMbL/l0oteIr+leJcLs0KwSDtTojJwiH+G8Blwn4M+jUNVjEgP8bCYbzJsDnZeHk3Z/B/adqjBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\Task-2\\URLShortener\\URLShortener.csproj",
+  "projectFilePath": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\evil2009-Task-2\\URLShortener\\URLShortener.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FredericCo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\FredericCo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

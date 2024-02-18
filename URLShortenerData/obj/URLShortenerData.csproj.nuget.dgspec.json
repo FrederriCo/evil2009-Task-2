@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\Task-2\\URLShortenerData\\URLShortenerData.csproj": {}
+    "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\evil2009-Task-2\\URLShortenerData\\URLShortenerData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\Task-2\\URLShortenerData\\URLShortenerData.csproj": {
+    "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\evil2009-Task-2\\URLShortenerData\\URLShortenerData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\Task-2\\URLShortenerData\\URLShortenerData.csproj",
+        "projectUniqueName": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\evil2009-Task-2\\URLShortenerData\\URLShortenerData.csproj",
         "projectName": "URLShortenerData",
-        "projectPath": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\Task-2\\URLShortenerData\\URLShortenerData.csproj",
+        "projectPath": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\evil2009-Task-2\\URLShortenerData\\URLShortenerData.csproj",
         "packagesPath": "C:\\Users\\FredericCo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\Task-2\\URLShortenerData\\obj\\",
+        "outputPath": "C:\\Users\\FredericCo\\Desktop\\exam\\Regular-Exam-Resources\\Regular-Exam-Resources\\evil2009-Task-2\\URLShortenerData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FredericCo\\AppData\\Roaming\\NuGet\\NuGet.Config",
